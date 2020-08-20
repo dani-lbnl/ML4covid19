@@ -1,0 +1,6 @@
+# Links to other methods
+
+COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images [here](https://github.com/lindawangg/COVID-Net)
+
+
+# Links to news articles
