@@ -1,11 +1,15 @@
 ML4covid19
 ==========
 
-Machine Learning and computer vision for covid-19 research and emergency preparadness
+Machine Learning, computer vision, and data management for COVID-19 research and emergency preparadness.
 
 https://bit.ly/ML4covid19
 
--	Ushizima et al, "ACTS: Accelerating COVID-19 Testing with Screening", ADSA Annual Meeting 2020.[[link]](https://academicdatascience.org/adsa-meetings/annual-meeting)[[video]](youtube?)
+- Sadre, Majumdar, Sundaram, Ushizima, "Validating deep learning inference during chest X-ray classification for COVID-19 screening", Nature Scientific Reports 2021 [[pdf]](https://www.google.com/url?q=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-021-95561-y&sa=D&sntz=1&usg=AFQjCNEevg0Sm2JDlBGvm-QTNoDLAHTd1w) 
+
+- Higa, Ushizima, "REST Interface Generator (RESTInG)", 20th International Conference on Information & Knowledge Engineering, SPRINGER NATURE Transactions on Computational Science & Computational Intelligence [[code]](https://github.com/dani-lbnl/resting)
+
+-	Ushizima et al, "ACTS: Accelerating COVID-19 Testing with Screening", ADSA Annual Meeting 2020.[[link]](https://academicdatascience.org/adsa-meetings/annual-meeting)
 
 -	Sadre, Ushizima, "Computer-aided chest x-ray image analysis", SC'20 Workshop on Urgent HPC.[[txt]](https://github.com/dani-lbnl/ML4covid19/blob/master/sadre)[[video]](https://drive.google.com/file/d/1PteMuiwOYoyf9p-5CpfGcm4lrvw8NCVR/view?usp=sharing)
 
